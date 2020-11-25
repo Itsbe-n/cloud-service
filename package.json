@@ -1,0 +1,27 @@
+{
+  "name": "swb",
+  "version": "0.0.1",
+  "description": "Super's helper",
+  "main": "bot.js",
+  "author": "SuperWaltC",
+  "license": "Apache-2.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^11.5.1",
+    "noblox.js": "^4.3.0",
+    "fs": "^0.0.2",
+    "forever": "^2.0.0",
+    "mysql": "^2.18.1",
+    "canvas": "^2.6.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "keywords": []
+}
