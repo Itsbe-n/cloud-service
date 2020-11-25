@@ -257,4 +257,4 @@ bot.on('ready', () => {
     });
 });
 
-bot.login("NzgwOTIxNzI3Njg0MzEzMTA5.X72ICA.BVo2JrYeZifqfFqRbOOhx3kH95I");
+bot.login("NzgwOTIxNzI3Njg0MzEzMTA5.X72ICA.Un3cht4TsepVaF_Urg-WgXDz6cQ");
